@@ -1,5 +1,5 @@
 # pacman
-📌Welcome to an exciting open-source project that will challenge your programming skills and strategic thinking! This repository houses a comprehensive implementation of a classic game, where you'll have the opportunity to design and develop an autonomous agent to navigate a maze and outsmart its opponents.
+📌This repository houses a comprehensive implementation of a classic game, where you'll have the opportunity to design and develop an autonomous agent to navigate a maze and outsmart its opponents.
 
 Within this project, you'll delve into the fascinating world of artificial intelligence, honing your problem-solving abilities and learning to create intelligent agents. You'll explore concepts such as search algorithms, probabilistic reasoning, reinforcement learning, and more, all while working on an engaging gaming environment.
 
